@@ -2,7 +2,7 @@
 ## JPEG Encoder Decoder
 
 
-## Part 1 (60%): JPEG encoding
+## Part 1: JPEG encoding
 In this part, JPEG encoder is implemented on the input image. 
 The JPEG encoder section has three major steps: 
 
@@ -11,7 +11,7 @@ The JPEG encoder section has three major steps:
 3. Degree of compression: The calculation for the degree of compression requires computing the number of pixel locations with zero values before and after quantization over the multiple blocks. You need to calculate the percentage of zero-pixel locations.
 
 
-##  Part 2 (40%): JPEG decoding
+##  Part 2: JPEG decoding
 
 In this part, JPEG decoder is implemented on the input image. 
 The JPEG decoder section has two major steps:
@@ -27,9 +27,7 @@ The JPEG decoder section has two major steps:
 
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
+Please connect with me for more details  kunaalgupta@hotmail.com.
 
 
 ## 🚀 About Me
