@@ -33,12 +33,15 @@ Please adhere to this project's `code of conduct`.
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a full-stack software engineer who aspires to develop and deliver sustainable technologies in an Agile environment while ensuring optimal functionality, quality, and reliability.
 
+Languages: Python - Django, Pandas, NumPy, OpenCV, Matplotlib, SciKit, Tkinter | C++ | JS, Ajax, jQuery, HTML5/CSS | Blockchain, Solidity, ETH, | MongoDB, MySQL, SQLite | Testing |
+
+Tools: PyCharm, Visual Studio Code, JIRA, GitHub, Truffle, Metamask, Ganache, Remix IDE, MS Suite
 
 ## Installation
 
-In your terminal, install dash.
+In your terminal, install following python libraries.
 
 ```bash
 pip install numpy
